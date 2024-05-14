@@ -5,7 +5,11 @@
 
 - 🌱 I’m currently learning **Terraform, Kubernetes**
 
+- 💬 Ask me about **Anything about making music. What DAW do you use? I'm a Reason Studio Propellerhead pro : )**
+
 - 📫 How to reach me **iamchinothegreat@gmail.com**
+
+- 📄 Know about my experiences [https://github.com/CodedbyChino/resume](https://github.com/CodedbyChino/resume)
 
 - ⚡ Fun fact **I'm passionate about creating music and Architecture images using AI. On the side, I love diving into the world of AI, constantly experimenting and learning. It's not just about skill-building; it's a journey of discovery and enjoyment that adds depth to my professional growth**
 
