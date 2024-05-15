@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chino</h1>
-<h3 align="center">On my DevOps and Cloud Engineer journey, I've gained experience in AWS, Docker, Kubernetes, and Python. I enjoy automating processes, building scalable infrastructure, and optimizing CI/CD pipelines. I'm keen on learning new technologies and using them to create or improve existing solutions.</h3>
+<h3 align="left">On my DevOps and Cloud Engineer journey, I've gained experience in AWS, Docker, Kubernetes, and Python. I enjoy automating processes, building scalable infrastructure, and optimizing CI/CD pipelines. I'm keen on learning new technologies and using them to create or improve existing solutions.</h3>
 
 - 🔭 I’m currently working on [Text-2-Speech Converter](https://github.com/CodedbyChino/Text-to-Speech-Converter-)
 
