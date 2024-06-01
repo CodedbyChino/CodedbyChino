@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Anything about making music. What DAW do you use? I'm a Reason Studio Propellerhead pro : )**
 
-- 📫 How to reach me **iamchinothegreat@gmail.com**
+- 📫 How to reach me **nonso3dviz@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/CodedbyChino/resume](https://github.com/CodedbyChino/resume)
   
