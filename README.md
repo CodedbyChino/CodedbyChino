@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **nonso3dviz@gmail.com**
 
-- 📄 Know about my experiences (https://codedbychino.codes)
+- 📄 Know about my experiences **https://codedbychino.codes**
   
 
 - ⚡ Fun fact **I'm passionate about creating music and Architecture images using AI. On the side, I love diving into the world of AI, constantly experimenting and learning. It's not just about skill-building; it's a journey of discovery and enjoyment that adds depth to my professional growth**
